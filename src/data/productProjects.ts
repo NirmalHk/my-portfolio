@@ -7,7 +7,7 @@ export const productProjects: Project[] = [
     description: 'A deep dive into Duolingo’s strategy, gamification systems, and retention-driving design.',
     longDescription: 'This case study analyzes Duolingo’s product strategy, user engagement systems, and growth model. It examines habit-forming mechanics, gamification, and psychological triggers that drive daily use and support a freemium model. The work includes persona development, journey mapping, UX analysis, and an evaluation of their experimentation culture, with recommendations to reduce friction, improve retention, and align design choices with business goals through data-informed strategies.',
     image: 'https://blog.duolingo.com/content/images/2024/09/cover_why-is-duolingo-free.png',
-    technologies: ['Product Strategy', 'User Research','Analytics', 'A/B Testing'],
+    technologies: ['Product Sense', 'User Empathy','User Journey Mapping'],
     outcomes: [
       'Address notification fatigue with adaptive timing',
       'Offer optional league modes to reduce burnout',
